@@ -1,0 +1,117 @@
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制xc\bin\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制xc\bin\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\ResolveAssemblyReference.cache
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.Form1.resources
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.MainForm.resources
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.Properties.Resources.resources
+D:\UserData\Administrator\桌面\屏幕绘制xc\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\bin\Debug\屏幕绘制.exe
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\bin\Debug\屏幕绘制.pdb
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.Form1.resources
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.MainForm.resources
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.exe
+C:\Documents and Settings\hello\桌面\屏幕绘制xc\obj\Debug\屏幕绘制.pdb
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制.Form1.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制.exe
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\bin\Debug\屏幕绘制.exe
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\bin\Debug\屏幕绘制.pdb
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1213\obj\Debug\屏幕绘制.pdb
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\bin\Debug\屏幕绘制.exe
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\bin\Debug\屏幕绘制.pdb
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.Form1.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.exe
+C:\Documents and Settings\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214\bin\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214\bin\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制.Form1.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制.MainForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214\obj\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214\bin\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214\bin\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\ResolveAssemblyReference.cache
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.Form1.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.MainForm.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.Properties.Resources.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214\obj\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\bin\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\bin\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\ResolveAssemblyReference.cache
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.Form1.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.MainForm.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.Properties.Resources.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\bin\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\bin\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.Form1.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.MainForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(不卡了。。)\obj\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\bin\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\bin\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制.Form1.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制.MainForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(加入箭头、WIN7不卡)\obj\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\bin\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\bin\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制.MainForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(线条平滑)\obj\Debug\屏幕绘制.DrawForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\bin\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\bin\Debug\屏幕绘制.pdb
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制.DrawForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制.MainForm.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制.Properties.Resources.resources
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制.exe
+C:\Users\Administrator\Desktop\屏幕绘制1214(快捷键)\obj\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\bin\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\bin\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\ResolveAssemblyReference.cache
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制.DrawForm.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制.MainForm.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制.Properties.Resources.resources
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制.exe
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\obj\Debug\屏幕绘制.pdb
+D:\UserData\Administrator\桌面\屏幕绘制1214(放大可画)\bin\Debug\IrisSkin2.dll
+F:\作业\屏幕绘制最终版\bin\Debug\屏幕绘制.exe
+F:\作业\屏幕绘制最终版\obj\Debug\ResolveAssemblyReference.cache
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制.DrawForm.resources
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制.MainForm.resources
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制.Properties.Resources.resources
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制xc.csproj.GenerateResource.Cache
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制.exe
+F:\作业\屏幕绘制最终版\obj\Debug\屏幕绘制.pdb
